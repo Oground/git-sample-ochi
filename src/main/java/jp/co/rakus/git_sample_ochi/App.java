@@ -2,7 +2,7 @@ package jp.co.rakus.git_sample_ochi;
 
 /**
  * Hello world!
- *
+ * @author ochi
  */
 public class App 
 {
